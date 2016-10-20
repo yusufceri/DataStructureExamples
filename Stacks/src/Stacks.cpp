@@ -11,5 +11,7 @@ using namespace std;
 
 int main() {
 	cout << "******** STACKS ************ " << endl; // prints
-	return 0;
+
+	cout<<"************** END ****************************"<<endl;
+	return 0
 }
