@@ -19,7 +19,7 @@ int main() {
 	int a = 7;
 	int x = kSmall(arrA, 0, 7, a);
 
-	cout<<a<<"th Smallest element: "<<x<<endl;
+	cout<<a<<"th Smallest element ==> "<<x<<endl;
 
 	return 0;
 }
