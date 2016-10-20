@@ -13,9 +13,9 @@ int kSmall(int *arrA, int start, int end, int k);
 void swap(int *arrA, int a, int b);
 
 int main() {
-	cout << " ***** Find Smallest element Recursively ***** " << endl; // prints
+	cout << " ***** Find Smallest element Recursively ******* " << endl; // prints
 
-	int arrA[] = { 4,7,3,6,8,1,9,2 };
+	int arrA[] = { 4,7,3,6,8,1,9,2};
 	int a = 7;
 	int x = kSmall(arrA, 0, 7, a);
 
