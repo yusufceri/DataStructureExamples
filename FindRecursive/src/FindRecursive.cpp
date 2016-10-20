@@ -36,7 +36,7 @@ int kSmall(int *arrA, int start, int end, int k) {
 	cout<<endl<<"*********   start = "<<start<<"    end="<<end<<endl;
 
 	if(end > 7){
-		cout<<"HATA end="<<end<<" !!!!!!!!!!!!"<<endl;
+		cout<<"ERROR end="<<end<<" !!!!!!!!!!!!"<<endl;
 		return -1;
 	}
 
